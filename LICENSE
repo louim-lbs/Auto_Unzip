@@ -1,0 +1,122 @@
+AUTO UNZIP - LICENSE
+
+This software is licensed under the GNU Affero General Public License v3 (AGPL-3.0)
+with an additional Commons Clause restriction.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+Copyright (C) 2026 Auto Unzip Contributors
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COMMONS CLAUSE RESTRICTION
+Version 1.0
+
+The Software is provided to you by the Licensor under the License "as is"
+and "as available" and with all faults; provided, however, that the Licensor
+shall not be liable for any indirect, incidental, special, exemplary, or
+consequential damages.
+
+Restriction: The Software may not be sold, and may not be used for any purpose
+that generates revenue, including but not limited to:
+
+1. Offering the Software as a service (SaaS)
+2. Commercial licensing or reselling
+3. Incorporating into a commercial product sold for profit
+4. Using as a component in a revenue-generating service
+5. Cloud computing services based on this Software
+
+Community Use Permitted:
+✓ Personal use
+✓ Educational use
+✓ Non-commercial use
+✓ Modifications for personal/educational purposes
+✓ Contributing improvements back to the project
+
+Commercial Use:
+If you wish to use this Software for commercial purposes, you must obtain
+a separate commercial license from the copyright holders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHAT THIS MEANS IN PRACTICE
+
+✅ YOU CAN:
+• Use the software for personal purposes
+• Read and study the source code
+• Modify the software for your own use
+• Contribute improvements back to the project
+• Run it on your own systems
+• Share it with others non-commercially
+• Use it in educational contexts
+
+❌ YOU CANNOT:
+• Sell the software
+• Offer it as a commercial service (SaaS/cloud)
+• Incorporate it into commercial products for sale
+• Charge users for access or features
+• Use it as the basis of a revenue-generating business
+  without commercial license
+
+⚠️ GRAY AREAS - CONTACT US:
+• Custom commercial implementations
+• Enterprise deployments for profit
+• Any other commercial use
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+COMMERCIAL LICENSE
+
+For commercial use, licensing inquiries, or any non-open-source deployment,
+please contact the copyright holders.
+
+This dual-licensing model allows:
+• Community to benefit from open source
+• Contributors to maintain control over commercial exploitation
+• Businesses to use the software under proper licensing terms
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FULL AGPL v3 LICENSE TEXT
+
+For the complete text of the GNU Affero General Public License v3,
+see: https://www.gnu.org/licenses/agpl-3.0.html
+
+For the complete Commons Clause restriction,
+see: https://commonsclause.com/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+LICENSE SUMMARY COMPARISON
+
+┌─────────────────────┬──────────────┬──────────┬─────────────┐
+│ Feature             │ MIT (Old)    │ AGPL-3.0 │ + Commons   │
+├─────────────────────┼──────────────┼──────────┼─────────────┤
+│ Open Source         │ ✓ Full       │ ✓ Full   │ ✓ Full      │
+│ Read Code           │ ✓            │ ✓        │ ✓           │
+│ Modify Code         │ ✓            │ ✓        │ ✓           │
+│ Commercial Use      │ ✓ (Free)     │ ✗        │ ✗ (License) │
+│ SaaS Service        │ ✓ (Free)     │ ✗        │ ✗ (License) │
+│ Sell Software       │ ✓ (Free)     │ ✗        │ ✗ (License) │
+│ Proprietary Changes │ ✓            │ ✗ (Share)│ ✗ (Share)   │
+│ Network Use → Share │ ✗            │ ✓        │ ✓           │
+│ Community Friendly  │ ✓ (Very)     │ ✓        │ ✓           │
+└─────────────────────┴──────────────┴──────────┴─────────────┘
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
