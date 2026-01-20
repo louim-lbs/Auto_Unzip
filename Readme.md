@@ -42,7 +42,7 @@ Auto Unzip is a lightweight Windows utility that automatically monitors your Dow
 ## Installation
 
 ### Method 1: Direct Installation
-1. Download `AutoUnzip-Setup.exe`
+1. Download `AutoUnzip-Setup.exe` [v1.0.0](https://github.com/louim-lbs/Auto_Unzip/releases/tag/v1.0.0)
 2. Double-click to install
 3. The app will auto-start just after installation
 4. You'll see a notification when installation is complete
